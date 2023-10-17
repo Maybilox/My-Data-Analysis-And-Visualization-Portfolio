@@ -1,4 +1,4 @@
-# My-Excel-Projects
+# My-Projects
 Hello there,
 
 This is my portfolio for data analysis and visualisation projects.
